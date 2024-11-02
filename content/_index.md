@@ -9,5 +9,3 @@ title = "Scripts"
 > If you want a feature, feel free to open PR or an issue.
 
 My script collection for Linux.
-
-## Scripts
